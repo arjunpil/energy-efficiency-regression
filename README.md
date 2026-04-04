@@ -29,6 +29,7 @@ Implementing and comparing three regression models:
 - Pandas
 - Matplotlib
 - Seaborn
+- Numpy
 
 ## Research Mentor
 Conducted under mentorship of a Mathematics PhD candidate (BS, UCLA)
