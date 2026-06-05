@@ -35,4 +35,4 @@ Implementing and comparing three regression models:
 Conducted under mentorship of a Mathematics PhD candidate (BS, UCLA)
 
 ## Status
-In progress — expected completion June 2026
+Waiting Review
